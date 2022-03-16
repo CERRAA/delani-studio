@@ -1,0 +1,77 @@
+# Delani Studio
+
+A professional Web Development website where you can get any website built and tailored to your specification.
+
+# By
+
+## Angie Cerra
+
+# Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [Dependencies](#dependencies)
+- [Design](#design)
+- [Live link](#live-link)
+- [Reference](#reference)
+- [Known Bugs](#known-bugs)
+- [License](#license)
+- [Authors Info](#author-Info)
+
+# Description
+
+ <p>This is a landing page to Delani Studio. A website where professional developers with unbeatable work ethic build websites, maintain and update your websites.</p>
+
+
+# Installation
+
+To Run this app in your machine, you need to:
+
+- Open Terminal `Ctrl+Alt+T`
+
+- git clone `https://cerraa.github.io/delani-studio/`
+
+- `cd Delani-Studio`
+
+- `code . or atom .` based on the text editor you have to open and view the project.
+
+# Technologies Used
+
+- HTML - To build the structure of the page.
+
+- CSS - Used to style the website.
+
+- Bootstrap - To style the web page.
+
+- JavaScript - To add functionality.
+
+
+# Dependencies
+
+- jQuery 
+
+# Design
+
+This website's Design and project description is provided in the Moringa Canvas. This design can be found [here](https://moringaschool.instructure.com/courses/586/assignments/9282?confetti=true&submitted=0).
+
+# Live link
+
+Here is the live link to the website.
+
+- https://cerraa.github.io/delani-studio/
+
+# Reference
+
+- Bootstrap Documentation
+- W3 Schools
+- Moringa Canvas
+
+# Known Bugs
+
+- At the time of deployment, there was no bugs identified by the developer,
+  If you encounter bugs while running the application, create an issue with your observation and expected output, the developer will look at it
+
+# Authors Info/ Contact info
+
+Email - [cerraangie113@gmail.com](johnnjaunjoroge@gmail.com)
