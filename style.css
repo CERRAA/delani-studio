@@ -1,29 +1,123 @@
-#id{
-    background-image: url('img/h_img.jpg');
-    background-size: 100% 800px;
-    height: 800px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-#mouse{
-    transform: translateY(200px);
-}
-.aboutUs{
-    display: flex;
-    flex-direction: column;  
-    align-items: center;
-}
-.services{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-image: url(img/s_image.jpg);
-    background-size: 100% 600px;
-    height: 600px;
-    font-weight: 600;
+/* body {
+    margin:0;
+    padding: 0;
+    width: fit-content;
+    height: fit-content;
+
+} */
+
+.head_section{
+    background-image: url("./assets/backgrounds/h_img.jpg");
+    /* width:100%; */
+    height: 50vw;
+    /* padding-top:; */
+    /* position: absolute; */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
     color: white;
+    text-align: center;
+
+}
+.head_text{
+    font-size: small;
+    font-weight: bold;
+    
+
+}
+.span_text{
+    font-size: 12px;
+    /* padding-bottom: 425px; */
+}
+.mouse_click{
+    /* padding-bottom: 55px; */
+}
+.about_us{
+
+    text-align: center;
+    /* padding-top: 500px; */
+    
+
+}
+
+.services{
+    text-align: center;
+   height: 50vh;
+}
+
+/* .services{
+    text-align: center;
+    padding-top: 70px;
+    padding-left:0%;
+    background-image: url(./assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    height: 50vh;
+    width: 200%;
+}
+
+ */
+
+
+
+
+
+.h_what_we_do{
+    text-align: center;
+}
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.h_portfolio{
+    text-align: center;
+}
+.h_contact{
+    text-align: center;
+}
+.contact{
+    background-image: url("./assets/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    height: 50vh;
+    
+
+}
+#submit{
+    color: white;
+
+}
+.socials{
+    text-align: center;
+}
+.social_icons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
 }
-    
+.design_text, .dev_text, .product_text{
+    display: none;
+}
+
+
+/* .what_we_do{
+    text-align: center;
+} */
+
+
+
+.emailname{
+    background: transparent;
+}
+.form-control{
+    background: transparent;
+
+}
+.form-control::placeholder{
+    color: #fff;
+}
