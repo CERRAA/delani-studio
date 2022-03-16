@@ -1,5 +1,3 @@
-
-  
 $(document).ready(function(){
     $("form#contact").submit(function(event){
       var nameInput = $("input#name");
@@ -93,3 +91,5 @@ $(document).ready(function(){
       $("#overlay8").hide();
     });
   });
+
+  
